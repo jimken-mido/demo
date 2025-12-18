@@ -20,16 +20,16 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://jimken-mido.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/demo/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jimken-mido', // Usually your GitHub org/user name.
-  projectName: 'my website', // Usually your repo name.
-
+  projectName: 'demo', // Usually your repo name.
+  deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
