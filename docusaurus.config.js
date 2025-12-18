@@ -94,6 +94,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+            type: 'docsVersionDropdown',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

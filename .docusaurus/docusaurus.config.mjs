@@ -85,10 +85,12 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
+          "type": "docsVersionDropdown",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Tutorial",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "to": "/blog",
