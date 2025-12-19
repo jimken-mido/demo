@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Midokura Phoenix',
   tagline: 'Dinosaurs are cooler',
   favicon: 'img/favicon.ico',
 
@@ -83,10 +83,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Phoenix',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Miodokura Logo',
+          src: 'img/midokura-logo.png',
         },
         items: [
           {
@@ -96,9 +96,13 @@ const config = {
             label: 'Tutorial',
             type: 'docsVersionDropdown',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            to: '/blog',
+            label: 'Release Notes',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/jimken-mido/demo',
             label: 'GitHub',
             position: 'right',
           },

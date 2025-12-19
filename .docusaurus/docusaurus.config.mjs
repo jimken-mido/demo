@@ -78,10 +78,10 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My Site",
+      "title": "Phoenix",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Miodokura Logo",
+        "src": "img/midokura-logo.png"
       },
       "items": [
         {
@@ -94,11 +94,11 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Release Notes",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/jimken-mido/demo",
           "label": "GitHub",
           "position": "right"
         }
