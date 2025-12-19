@@ -212,7 +212,7 @@
       "plugin": "138e0e15"
     }
   },
-  "/demo/docs-824": {
+  "/demo/docs-0b2": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
@@ -269,11 +269,11 @@
     "__comp": "17896441",
     "content": "f8261bc8"
   },
-  "/demo/docs/next-352": {
+  "/demo/docs/next-660": {
     "__comp": "a7bd4aaa",
     "__props": "d51ef5c1"
   },
-  "/demo/docs/next-f7a": {
+  "/demo/docs/next-6b5": {
     "__comp": "a94703ab"
   },
   "/demo/docs/next/category/tutorial---basics-66a": {
@@ -303,6 +303,10 @@
   "/demo/docs/next/tutorial-basics/create-a-document-46f": {
     "__comp": "17896441",
     "content": "1e4232ab"
+  },
+  "/demo/docs/next/tutorial-basics/create-a-foo-7f7": {
+    "__comp": "17896441",
+    "content": "7cda5a85"
   },
   "/demo/docs/next/tutorial-basics/create-a-page-696": {
     "__comp": "17896441",

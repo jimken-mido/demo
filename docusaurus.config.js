@@ -115,41 +115,12 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+        alt: 'Midokura',
+        src: 'img/logo.png',
+        href: 'https://midokura.com',
+      },      
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Some place',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/midokura/',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Midokura. Built with Docusaurus.`,
       },
       prism: {

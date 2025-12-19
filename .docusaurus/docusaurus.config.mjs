@@ -112,45 +112,14 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
+      "logo": {
+        "alt": "Midokura",
+        "src": "img/logo.png",
+        "href": "https://midokura.com"
+      },
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/midokura/"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2025 Midokura. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Midokura. Built with Docusaurus.",
+      "links": []
     },
     "prism": {
       "theme": {

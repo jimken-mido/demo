@@ -19,5 +19,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/demo/docs/next/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "Tutorial - Super",
+    "permalink": "/demo/docs/next/category/tutorial---super"
   }
 }

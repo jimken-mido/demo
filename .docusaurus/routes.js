@@ -84,7 +84,7 @@ export default [
   },
   {
     path: '/demo/docs',
-    component: ComponentCreator('/demo/docs', '824'),
+    component: ComponentCreator('/demo/docs', '0b2'),
     routes: [
       {
         path: '/demo/docs/1.0',
@@ -166,11 +166,11 @@ export default [
       },
       {
         path: '/demo/docs/next',
-        component: ComponentCreator('/demo/docs/next', '352'),
+        component: ComponentCreator('/demo/docs/next', '660'),
         routes: [
           {
             path: '/demo/docs/next',
-            component: ComponentCreator('/demo/docs/next', 'f7a'),
+            component: ComponentCreator('/demo/docs/next', '6b5'),
             routes: [
               {
                 path: '/demo/docs/next/category/tutorial---basics',
@@ -211,6 +211,12 @@ export default [
               {
                 path: '/demo/docs/next/tutorial-basics/create-a-document',
                 component: ComponentCreator('/demo/docs/next/tutorial-basics/create-a-document', '46f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/demo/docs/next/tutorial-basics/create-a-foo',
+                component: ComponentCreator('/demo/docs/next/tutorial-basics/create-a-foo', '7f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
