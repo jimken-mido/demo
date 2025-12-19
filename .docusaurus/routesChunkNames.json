@@ -212,7 +212,7 @@
       "plugin": "138e0e15"
     }
   },
-  "/demo/docs-fef": {
+  "/demo/docs-824": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
@@ -269,24 +269,24 @@
     "__comp": "17896441",
     "content": "f8261bc8"
   },
-  "/demo/docs/next-2d7": {
+  "/demo/docs/next-352": {
     "__comp": "a7bd4aaa",
     "__props": "d51ef5c1"
   },
-  "/demo/docs/next-026": {
+  "/demo/docs/next-f7a": {
     "__comp": "a94703ab"
   },
   "/demo/docs/next/category/tutorial---basics-66a": {
     "__comp": "14eb3368",
     "__props": "63a3e4fe"
   },
-  "/demo/docs/next/category/tutorial---basics-1-547": {
-    "__comp": "14eb3368",
-    "__props": "41c7110d"
-  },
   "/demo/docs/next/category/tutorial---extras-497": {
     "__comp": "14eb3368",
     "__props": "0418525c"
+  },
+  "/demo/docs/next/category/tutorial---super-86a": {
+    "__comp": "14eb3368",
+    "__props": "b9ab8add"
   },
   "/demo/docs/next/intro-515": {
     "__comp": "17896441",

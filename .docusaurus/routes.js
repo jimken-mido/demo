@@ -84,7 +84,7 @@ export default [
   },
   {
     path: '/demo/docs',
-    component: ComponentCreator('/demo/docs', 'fef'),
+    component: ComponentCreator('/demo/docs', '824'),
     routes: [
       {
         path: '/demo/docs/1.0',
@@ -166,11 +166,11 @@ export default [
       },
       {
         path: '/demo/docs/next',
-        component: ComponentCreator('/demo/docs/next', '2d7'),
+        component: ComponentCreator('/demo/docs/next', '352'),
         routes: [
           {
             path: '/demo/docs/next',
-            component: ComponentCreator('/demo/docs/next', '026'),
+            component: ComponentCreator('/demo/docs/next', 'f7a'),
             routes: [
               {
                 path: '/demo/docs/next/category/tutorial---basics',
@@ -179,14 +179,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/demo/docs/next/category/tutorial---basics-1',
-                component: ComponentCreator('/demo/docs/next/category/tutorial---basics-1', '547'),
+                path: '/demo/docs/next/category/tutorial---extras',
+                component: ComponentCreator('/demo/docs/next/category/tutorial---extras', '497'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/demo/docs/next/category/tutorial---extras',
-                component: ComponentCreator('/demo/docs/next/category/tutorial---extras', '497'),
+                path: '/demo/docs/next/category/tutorial---super',
+                component: ComponentCreator('/demo/docs/next/category/tutorial---super', '86a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
