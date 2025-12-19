@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Midokura Phoenix",
-  "tagline": "Dinosaurs are cooler",
+  "tagline": "High-end GPU servers for HPC and AI workloads delivered to your doorstep",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -81,21 +81,27 @@ export default {
       "title": "Phoenix",
       "logo": {
         "alt": "Miodokura Logo",
-        "src": "img/midokura-logo.png"
+        "src": "img/logo.png"
       },
       "items": [
         {
-          "type": "docsVersionDropdown",
+          "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "label": "Documentation"
         },
         {
           "to": "/blog",
           "label": "Release Notes",
           "position": "left"
+        },
+        {
+          "type": "docsVersionDropdown",
+          "sidebarId": "tutorialSidebar",
+          "position": "right",
+          "label": "Tutorial",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/jimken-mido/demo",

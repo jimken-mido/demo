@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Midokura Phoenix',
-  tagline: 'Dinosaurs are cooler',
+  tagline: 'High-end GPU servers for HPC and AI workloads delivered to your doorstep',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -86,20 +86,26 @@ const config = {
         title: 'Phoenix',
         logo: {
           alt: 'Miodokura Logo',
-          src: 'img/midokura-logo.png',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
-            type: 'docsVersionDropdown',
+            label: 'Documentation',
           },
           {
             to: '/blog',
             label: 'Release Notes',
             position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'right',
+            label: 'Tutorial',
+            type: 'docsVersionDropdown',
           },
           {
             href: 'https://github.com/jimken-mido/demo',

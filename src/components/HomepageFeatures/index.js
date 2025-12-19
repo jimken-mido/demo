@@ -5,7 +5,16 @@ import styles from './styles.module.css';
 const FeatureList = [
   
   {
-    title: 'Focus on What Matters',
+    title: '',
+    Svg: require('@site/static/img/phoenix.svg').default,
+    description: (
+      <>
+
+      </>
+    ),
+  },
+  {
+    title: 'Lorem Ipsum Dolor',
     Svg: require('@site/static/img/phoenix.svg').default,
     description: (
       <>
@@ -14,6 +23,15 @@ const FeatureList = [
     ),
   },
   
+  {
+    title: '',
+    Svg: require('@site/static/img/phoenix.svg').default,
+    description: (
+      <>
+        
+      </>
+    ),
+  }
 ];
 
 function Feature({Svg, title, description}) {

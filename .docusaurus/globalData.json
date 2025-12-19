@@ -56,8 +56,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-super/congratulations",
+              "path": "/demo/docs/next/tutorial-super/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-super/create-a-blog-post",
+              "path": "/demo/docs/next/tutorial-super/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-super/create-a-document",
+              "path": "/demo/docs/next/tutorial-super/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-super/create-a-page",
+              "path": "/demo/docs/next/tutorial-super/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-super/deploy-your-site",
+              "path": "/demo/docs/next/tutorial-super/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-super/markdown-features",
+              "path": "/demo/docs/next/tutorial-super/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/tutorial---basics",
               "path": "/demo/docs/next/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics-1",
+              "path": "/demo/docs/next/category/tutorial---basics-1",
               "sidebar": "tutorialSidebar"
             },
             {

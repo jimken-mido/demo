@@ -212,7 +212,7 @@
       "plugin": "138e0e15"
     }
   },
-  "/demo/docs-927": {
+  "/demo/docs-fef": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
@@ -269,16 +269,20 @@
     "__comp": "17896441",
     "content": "f8261bc8"
   },
-  "/demo/docs/next-982": {
+  "/demo/docs/next-2d7": {
     "__comp": "a7bd4aaa",
     "__props": "d51ef5c1"
   },
-  "/demo/docs/next-bbe": {
+  "/demo/docs/next-026": {
     "__comp": "a94703ab"
   },
   "/demo/docs/next/category/tutorial---basics-66a": {
     "__comp": "14eb3368",
     "__props": "63a3e4fe"
+  },
+  "/demo/docs/next/category/tutorial---basics-1-547": {
+    "__comp": "14eb3368",
+    "__props": "41c7110d"
   },
   "/demo/docs/next/category/tutorial---extras-497": {
     "__comp": "14eb3368",
@@ -319,6 +323,30 @@
   "/demo/docs/next/tutorial-extras/translate-your-site-520": {
     "__comp": "17896441",
     "content": "e44a2883"
+  },
+  "/demo/docs/next/tutorial-super/congratulations-58d": {
+    "__comp": "17896441",
+    "content": "5a53314b"
+  },
+  "/demo/docs/next/tutorial-super/create-a-blog-post-c56": {
+    "__comp": "17896441",
+    "content": "626f8bc1"
+  },
+  "/demo/docs/next/tutorial-super/create-a-document-732": {
+    "__comp": "17896441",
+    "content": "5da9273f"
+  },
+  "/demo/docs/next/tutorial-super/create-a-page-ff4": {
+    "__comp": "17896441",
+    "content": "c5b0bcc1"
+  },
+  "/demo/docs/next/tutorial-super/deploy-your-site-300": {
+    "__comp": "17896441",
+    "content": "de8269fc"
+  },
+  "/demo/docs/next/tutorial-super/markdown-features-e86": {
+    "__comp": "17896441",
+    "content": "9512aaf5"
   },
   "/demo/docs-a09": {
     "__comp": "a7bd4aaa",
