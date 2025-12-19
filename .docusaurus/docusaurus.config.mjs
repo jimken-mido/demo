@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "Midokura Phoenix",
   "tagline": "Dinosaurs are cooler",
   "favicon": "img/favicon.ico",
   "future": {
@@ -71,7 +71,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/phoenix.svg",
     "colorMode": {
       "respectPrefersColorScheme": true,
       "defaultMode": "light",
