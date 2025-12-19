@@ -3,6 +3,11 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/demo/about',
+    component: ComponentCreator('/demo/about', 'c62'),
+    exact: true
+  },
+  {
     path: '/demo/blog',
     component: ComponentCreator('/demo/blog', '9cb'),
     exact: true
@@ -70,6 +75,11 @@ export default [
   {
     path: '/demo/blog/welcome',
     component: ComponentCreator('/demo/blog/welcome', 'dfb'),
+    exact: true
+  },
+  {
+    path: '/demo/help',
+    component: ComponentCreator('/demo/help', '147'),
     exact: true
   },
   {
